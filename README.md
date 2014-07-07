@@ -1,5 +1,5 @@
 # Jekyll Incorporated
-Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendto.com](http://blog.sendto.com)
 
 ## Installation & Usage
     bundle install
@@ -39,7 +39,7 @@ rake site:publish
 
 ## Authors
 
-Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
+Originally build for [sendto.com](https://sendto.com), your workspace for sharing and organizing knowledge
 
 **Karri Saarinen**
 
@@ -59,5 +59,5 @@ Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for 
 
 ## Copyright and license
 
-Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
+Copyright 2013 Kippt . under [The MIT License ](LICENSE)
 
