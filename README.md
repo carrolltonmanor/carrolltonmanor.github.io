@@ -1,32 +1,44 @@
-# Adding a news post
+This page is intended for developeres of the Carrollton Manor website (carrolltonmanor.github.io, carrolltonmanor.com).
 
-1. Go to https://github.com/carrolltonmanor/carrolltonmanor.github.io
-2. Click Sign In; username:  carrolltonmanor; password = Hillb0tt0mBeach
-3. Navigate to carrolltonmanor.github.io/_drafts/YYYY-MM-DD-news-post.md; select-all and copy the text
-4. Create a new document (look for the plus sign) in carrolltonmanor.github.io/_posts/news/; use this format for the file name:
+# Backlog
 
-    YYYY-MM-DD-title-of-article.md
+This is a list of ideas for improvement to the website and associated tools.
 
-For example:
-
-    2015-01-02-community-yard-sale.md
-
-5. Paste the copied text into that new file
-6. Add contents for the news post below the last "---"; see this cheatsheet for syntax help:  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
+* add wait list for boat slips - get list from Don Price; application for the wait list; application for beach key ('pier' tab for those three?)
+* check analytics; add access to this email, and tell Lisa what I find
+* for events, click-to-add to google calendar?
+* RSS?
+* username/pw login access to security cameras, or read-only access?
+* set up private login section for kid babysitting signups?, etc.
+* calendar of events?
+* put newsletter stories on the web?
+* add link to fb group (not site)
 
 # Using Jekyll with Pages
 
-See https://help.github.com/articles/using-jekyll-with-pages for more on using Jekyll with github-pages.  Notably:
+Jekyll is a static website builder.  It is tightly integrated with Github Pages.
+
+See https://help.github.com/articles/using-jekyll-with-pages for more on using Jekyll with Github Pages.  Notably:
 
 Execute
 	
-    bundle exec jekyll serve
+    bundle exec jekyll serve [--detach]
 
 in the root directory to build and serve the page.  Use
+
+    bundle exec bild --watch &
+
+to build only.  Use
 
     bundle update
 	
 in the root directory to update jekyll dependencies.
+
+For more on Jekyll and Github Pages:
+http://jekyllrb.com/
+http://jekyllrb.com/docs/usage/
+https://help.github.com/articles/using-jekyll-with-pages#installing-jekyll
+https://www.andrewmunsell.com/tutorials/jekyll-by-example/tutorial
 
 # Preparing Images
 
