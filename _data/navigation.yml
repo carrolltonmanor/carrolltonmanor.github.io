@@ -1,0 +1,45 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+  dropdown:
+  - title: Community
+    url: "/about/"
+  - title: Association
+    url: "/cmia/"  
+
+- title: Gallery
+  url: "/gallery/"
+  side: left
+  
+- title: News
+  url: "/news/"
+  side: left
+  
+- title: "Resources"
+  url: "/resources/"
+  side: left
+  dropdown:
+  - title: "Newsletters"
+    url: "/resources/eagle-archive/"
+  - title: "Links"
+    url: "/resources/links/"
+  - title: "By-Laws"
+    url: "/resources/by-laws/"
+  - title: "Constitution"
+    url: "/resources/constitution/"
+  - title: "Pier Wait List"
+    url: "/resources/pier-wait-list/"
+ # - title: "FAQ"
+ #   url: "/resources/faq/"
+    
+- title: "Search"
+  url: "/search/"
+  side: right
+  
+- title: "Contact"
+  url: "/contact/"
+  side: right

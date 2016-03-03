@@ -1,0 +1,20 @@
+- id:  lbender
+  title:  President
+
+- id: bdant
+  title:  Vice President
+  
+- id:  bstraub
+  title:  Treasurer
+
+- id:  mbarto
+  title:  Secretary
+  
+- id: spetsky
+  title:  Director-At-Large
+    
+- id:  dprice
+  title:  Director-At-Large
+ 
+- id:  jdavis
+  title:  Director-At-Large

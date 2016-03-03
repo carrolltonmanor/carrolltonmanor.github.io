@@ -1,0 +1,15 @@
+---
+layout: page-fullwidth
+title: Search
+header:
+   image: "various/sign1-crop-alternate-680x80.jpg"
+   background-color:  "#ffe6b3"
+permalink: "/search/"
+show_meta: false
+---
+
+{% include google_search.html %}
+
+<form style="padding-bottom: 200px;" onsubmit="google_search()" >
+  <input type="text" id="google-search" placeholder="{{ site.data.language.enter_search_term }}">
+</form>
