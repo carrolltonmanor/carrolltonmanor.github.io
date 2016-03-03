@@ -9,7 +9,7 @@ permalink: "/news/"
 breadcrumb: true
 ---
 
-News has been moved to our <a href="http://carrolltonmanorblog.wordpress.com">wordpress blog site</a>.
+News has been moved to our <a href="http://carrolltonmanorblog.wordpress.com">wordpress site</a>.
 
 <!--
 <ul>
