@@ -10,7 +10,7 @@ permalink: "/resources/eagle-archive/"
 breadcrumb: true
 ---
 
-{% assign years = "2015|2014|2013|2012|2011|2010|2009|2008|2007|2006|2005|2004|2003|2002|2001" | split: "|" %}
+{% assign years = "2016|2015|2014|2013|2012|2011|2010|2009|2008|2007|2006|2005|2004|2003|2002|2001" | split: "|" %}
 <!--- {% assign thisYear = "2015" %} -->
 
 <!--- {{ thisYear }}:  <a href="/resources/eagle-archive/eagle-{{ thisYear }}-spring.pdf">Spring</a> / Summer / Fall / Winter -->
