@@ -1,20 +1,23 @@
-- id:  lbender
+- id:  vacant
   title:  President
 
-- id: bdant
+- id: lbender
   title:  Vice President
   
-- id:  bstraub
+- id:  crogers
   title:  Treasurer
 
 - id:  mbarto
   title:  Secretary
   
-- id: spetsky
+- id: jmain
   title:  Director-At-Large
     
 - id:  dprice
   title:  Director-At-Large
  
 - id:  jdavis
+  title:  Director-At-Large
+
+- id:  dgausepohl
   title:  Director-At-Large

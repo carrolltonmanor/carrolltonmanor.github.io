@@ -8,19 +8,10 @@ bdant:
   phone:  410.544.9556
   email:  bpdantsp@verizon.net
 
-bstraub:
-  name:  Beth Straub 
-  phone:  410.562.3996
-  email:  bifh@netscape.net
-
 mbarto:
   name:  Mike Barto 
   phone:  410.544.0074
   email:  mrbarto@comcast.net
-
-spetsky:
-  name:  Sarah Petsky
-  phone:  703.402.1643
 
 dprice:
   name:  Don Price
@@ -29,6 +20,7 @@ dprice:
   
 jdavis:
   name:  Jen Davis
+  phone:  443.699.0145
   email:  dfinnej@yahoo.com
 
 lserio:
@@ -44,14 +36,6 @@ dkochanski:
   phone:  410.544.0008
   email:  Momdmk@aol.com
   
-mquillen:
-  name:  Mark Quillen
-  phone:  410.647.6041
-  
-jpetrakis:
-  name:  Jeff Petrakis
-  phone:  443.852.5706 
-
 aeveleth:
   name:  Asahi Eveleth
   phone:  410.544.5803
@@ -65,6 +49,18 @@ sdimauro:
 webmaster:
   name:  Steve DiMauro
   email:  carrolltonmanorweb@gmail.com
+
+jmain:
+  name:  Jay Main
+  phone:  508.410.2070
+
+crogers:
+  name:  Carolyn Rogers
+  phone:  410.699.5039
+
+dgausepohl:
+  name:  Dana Gausepohl
+  phone:  202.617.6373
 
 vacant:
   name:  (vacant)

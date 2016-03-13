@@ -10,14 +10,8 @@
 - chair:  lbender
   title:  Community Properties
   
-- chair:  vacant
+- chair:  dkochanski
   title: Security Patrols
-  members:
-    - id:  dkochanski
-    
-    - id:  mquillen
-    
-    - id:  jpetrakis
 
 - chair:  aeveleth
   title:  Newsletter
