@@ -13,13 +13,17 @@ breadcrumb: true
 For more information about the Community or the <a href="/cmia">CMIA</a>, contact the following folks:
 
 {% for person in site.data.board_roles %}
+{% if person.id != 'vacant' %}
+  {% assign ph = site.data.people | map: person.id | map: 'phone' %}
+  {% assign em = site.data.people | map: person.id | map: 'email' %}
 
-  {% assign this_phone = site.data.people | map: person.id | map: 'phone' %}
-  {% assign this_email = site.data.people | map: person.id | map: 'email' %}
-
-  {{ site.data.people | map: person.id | map: 'name'}} ({{ person.title }}):  {{ this_phone }} / {{ this_email }}
-  
+  {{ site.data.people | map: person.id | map: 'name'}} ({{ person.title }})
+  <br>
+  {% if ph contains 'UNKNOWN' %} {% else %} phone: {{ ph }} <br> {% endif %}
+  {% if em contains 'UNKNOWN' %} {% else %} email: {{ em }} <br> {% endif %}
+{% endif %}  
 {% endfor %}
 
+<br>
 
 For suggestions on improving this site, <a href="mailto:carrolltonmanorweb@gmail.com">email us</a>.

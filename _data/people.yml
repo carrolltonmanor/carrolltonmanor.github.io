@@ -26,9 +26,11 @@ jdavis:
 lserio:
   name:  Lillian Serio 
   phone:  410.647.5450
+  email:  UNKNOWN
 
 vacant-kids:
   name:  (vacant)
+  phone:  UNKNOWN
   email:  CMIAkids@gmail.com
 
 dkochanski:
@@ -48,21 +50,25 @@ sdimauro:
 
 webmaster:
   name:  Steve DiMauro
+  phone:  UNKNOWN
   email:  carrolltonmanorweb@gmail.com
 
 jmain:
   name:  Jay Main
   phone:  508.410.2070
+  email:  UNKNOWN
 
 crogers:
   name:  Carolyn Rogers
   phone:  410.699.5039
+  email:  UNKNOWN
 
 dgausepohl:
   name:  Dana Gausepohl
   phone:  202.617.6373
+  email:  UNKNOWN
 
 vacant:
   name:  (vacant)
-  phone:
-  email:
+  phone:  UNKNOWN
+  email:  UNKNOWN
