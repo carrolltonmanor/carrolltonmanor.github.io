@@ -34,6 +34,12 @@ breadcrumb: true
 * Community water, sewer, storm drains maps:  go to <a href="http://gis-world2.aacounty.org/DPWcounter/FormQuery.aspx">the query form</a>, search for subdivision, enter "CARROLLTON MANOR"
 * <a href="http://www.cbtrust.org/site/c.miJPKXPCJnH/b.5368633/k.BDEA/Home.htm">Cheasapeake Bay Trust</a>
 
+### Native Landscaping
+
+* U.S. Fish & Wildlife Service's <a href="/resources/native-landscaping/chesapeakenatives-nfwf-book.pdf">Native Plants for Wildlife Habitat and Conservation Landscaping: Chesapeake Bay Watershed</a>
+* U.S. Fish & Wildlife Service's <a href="/resources/native-landscaping/Plant-Invaders-of-the-Mid-Atlantic-NFWF.pdf">Plant Invaders of Mid-Atlantic Natural Areas</a>
+* <a href="/resources/native-landscaping/HillBottom-Unity-Gardens-Planting-Diagram-Garden-cells.pdf">Planting diagram</a> and <a href="/resources/native-landscaping/CMIA-HILLBOTTOM-BEACH-BIORETENTION-GARDEN-PLANT-LISTS-2.xlsx">plant list</a> for CM's Hillbottom Beach Unity Gardens
+
 ## Severna Park
 
 * <a href="http://www.gspcouncil.org">Greater Severna Park Council</a>
