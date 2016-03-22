@@ -94,6 +94,18 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
     (Rename all files to 1.jpg, 2.jpg, etc.)
     i=1; for f in `ls -1`; do mv $f $i.jpg; ((i++)); done
 
+# Posting a new Gallery page
+
+Assuming new gallery with date YYYY-MM-DD and title this-title and number of photos = NUM_PHOTOS:
+
+1. Grab post template:
+    cp resources/post-templates/gallery.md _posts/gallery/YYYY-MM-DD-this-title.md
+
+2. Replace title, TOTAL_PICS_NO, and FOLDER_NAME values within that new page.
+
+3. Create folder images/YYYY-MM-DD-this-title; convert, rename, and create thumbnails (see above) so that you have filenames 1.jpg, 1_thumb.jpg, 2.jpg, 2_thumb.jpg, etc. in that folder.
+
+
 
  [1]: http://phlow.github.io/feeling-responsive/documentation/
  [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
