@@ -82,13 +82,17 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
 
 ## Examples
 
+    (Replace all spaces with dashes)
     rename "s/ /-/" *
    
+    (Convert all tifs to jpgs)
     for fn in `ls -1 *tif`; do pref=`echo $fn | awk 'BEGIN {FS="."};{print $1}'`; convert $pref.tif $pref.jpg; done
 
+    (Create thumbnails from regular-sized jpgs)
     for fn in `ls -1 *jpg`; do pref=`echo $fn | awk 'BEGIN {FS="."};{print $1}'`; convert -resize x100 ${pref}.jpg ${pref}_thumb.jpg; done
 
-    for fn in `ls -1 halloween*.jpg`; do echo $fn; mv $fn ${fn//halloween/2008-10-31-CMIA-halloween_}; done
+    (Rename all files to 1.jpg, 2.jpg, etc.)
+    i=1; for f in `ls -1`; do mv $f $i.jpg; ((i++)); done
 
 
  [1]: http://phlow.github.io/feeling-responsive/documentation/
