@@ -21,12 +21,16 @@ The following is a general summary of information about the Carrollton Manor Imp
  
  
 ## Board Members
+Last updated February 2017.
+
 {% for person in site.data.board_roles %}
 **{{ person.title }}**:  {{ site.data.people | map: person.id | map: 'name'}} 
 {% endfor %}
 
 
 ## Committees
+Last updated February 2017.
+
 {% for committee in site.data.committees %}
 **{{ committee.title }}** - chair:  {{ site.data.people | map: committee.chair | map: 'name' }}
 {% endfor %}
