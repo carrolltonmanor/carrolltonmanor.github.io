@@ -4,7 +4,7 @@ title: Resources
 description: "Various resources for community members"
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ffe6b3"
+   background-color:  "#fafafa"
 permalink: "/resources/"
 breadcrumb: true
 ---

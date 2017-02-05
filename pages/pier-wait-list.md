@@ -5,7 +5,7 @@ title: Pier Wait List
 description: "Wait list for Hillbottom Beach's pier"
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ffe6b3"
+   background-color:  "#fafafa"
 permalink: "/resources/pier-wait-list/"
 breadcrumb: true
 ---

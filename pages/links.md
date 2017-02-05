@@ -5,7 +5,7 @@ title: Links
 description: "Community Links"
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ffe6b3"
+   background-color:  "#fafafa"
 permalink: "/resources/links/"
 breadcrumb: true
 ---

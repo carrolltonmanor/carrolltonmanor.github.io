@@ -21,14 +21,12 @@ description: "»Carrollton Manor.com« is the official website for the Severna P
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-#url: "http://sadimauro.github.io"
 url: "http://carrolltonmanor.com"
 #url: "http://localhost:4000"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-#improve_content: https://github.com/sadimauro/sadimauro.github.io/edit
 improve_content: https://github.com/carrolltonmanor/carrolltonmanor.github.io/edit
 
 # This URL points directly to the images directory making
@@ -41,8 +39,7 @@ urlimg: "http://carrolltonmanor.com/images"
 
 # Logo size is 600x80 pixels
 # (This is the text-based logo)
-#logo: "logo.png"
-logo:
+logo: "logo.png"
 
 # Paginates all X entries
 #paginate: 5
