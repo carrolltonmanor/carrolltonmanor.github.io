@@ -37,12 +37,12 @@ improve_content: https://github.com/carrolltonmanor/carrolltonmanor.github.io/ed
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-#urlimg: "http://sadimauro.github.io/images/"
 urlimg: "http://carrolltonmanor.com/images"
 
 # Logo size is 600x80 pixels
 # (This is the text-based logo)
 #logo: "logo.png"
+logo:
 
 # Paginates all X entries
 #paginate: 5
