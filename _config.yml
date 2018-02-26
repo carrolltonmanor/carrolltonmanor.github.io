@@ -21,7 +21,8 @@ description: "»Carrollton Manor.com« is the official website for the Severna P
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://carrolltonmanor.com"
+url: "http://carrolltonmanor.github.io"
+#url: "http://carrolltonmanor.com"
 #url: "http://localhost:4000"
 baseurl: ""
 
@@ -35,7 +36,8 @@ improve_content: https://github.com/carrolltonmanor/carrolltonmanor.github.io/ed
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://carrolltonmanor.com/images"
+#urlimg: "http://carrolltonmanor.com/images"
+urlimg: "http://carrolltonmanor.github.io/images"
 
 # Logo size is 600x80 pixels
 # (This is the text-based logo)
