@@ -16,7 +16,7 @@ breadcrumb: true
 <div class="full zoomable"><img src="/images/various/sunset-beach3.jpg"></div>
 
 ## History
-CCarrollton Manor was subdivided in 1931 and the 25 foot wide lots were sold as vacation properties. 
+Carrollton Manor was subdivided in 1931 and the 25 foot wide lots were sold as vacation properties. 
 One of the first houses was a Mediterranean style house that still stands on Center Drive. 
 Carrollton Manor slowly grew and remained a vacation community through the 40s and 50s, as did much 
 of the Anne Arundel County shoreline between Annapolis and Baltimore. When the first bay bridge was 
