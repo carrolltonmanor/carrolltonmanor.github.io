@@ -9,7 +9,7 @@ header:
 permalink: "/resources/pier-wait-list/"
 breadcrumb: true
 ---
-The wait list (with addresses and contact information omitted) is <a href="/resources/pier-wait-list/pierWaitList_2016-11-25.xlsx">here</a>.   Last updated 11/25/16.
+The wait list (with addresses and contact information omitted) is <a href="/resources/pier-wait-list/pierWaitList_2018-03-30.xlsx">here</a>.   Last updated 3/30/18.
 
 If you'd like to be added to the waiting list, print out the <a href="/resources/pier-wait-list/pierWaitList_application.pdf">pier wait list application</a> and mail it to the address specified in the application.
 
