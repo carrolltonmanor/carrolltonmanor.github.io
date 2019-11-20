@@ -1,24 +1,12 @@
-This page is intended for developers of the Carrollton Manor website (carrolltonmanor.github.io, carrolltonmanor.com).
-
-# Backlog
-
-This is a list of ideas for improvement to the website and associated tools.
-
-* add wait list for boat slips - get list from Don Price; application for the wait list; application for beach key ('pier' tab for those three?)
-* check analytics; add access to the carrolltonmanorweb@gmail.com email, and tell Lisa what I find
-* for events, click-to-add to google calendar?
-* RSS?
-* username/pw login access to security cameras, or read-only access?
-* set up private login section for kid babysitting signups?, etc.
-* calendar of events?
-* put newsletter stories on the web?
-* google map for quick view of our community
+This page is intended for developers of the Carrollton Manor website (carrolltonmanor.github.io, carrolltonmanor.us).
 
 # Using Jekyll with Pages
 
 This site uses Jekyll, a static website builder.  It is tightly integrated with Github Pages.
 
-See https://help.github.com/articles/using-jekyll-with-pages for more on using Jekyll with Github Pages.  Notably:
+See 
+https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
+for more on using Jekyll with Github Pages.  Notably:
 
 Execute
 	
@@ -105,9 +93,22 @@ Assuming new gallery with date YYYY-MM-DD and title this-title and number of pho
 
 3. Create folder images/YYYY-MM-DD-this-title; convert, rename, and create thumbnails (see above) so that you have filenames 1.jpg, 1_thumb.jpg, 2.jpg, 2_thumb.jpg, etc. in that folder.
 
+# Backlog
+
+This is a list of ideas for improvement to the website and associated tools.
+
+* add wait list for boat slips - get list from Don Price; application for the wait list; application for beach key ('pier' tab for those three?)
+* check analytics; add access to the carrolltonmanorweb@gmail.com email, and tell Lisa what I find
+* for events, click-to-add to google calendar?
+* RSS?
+* username/pw login access to security cameras, or read-only access?
+* set up private login section for kid babysitting signups?, etc.
+* calendar of events?
+* put newsletter stories on the web?
+* google map for quick view of our community
 
 
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+[1]: http://phlow.github.io/feeling-responsive/documentation/
+[2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+[3]: http://phlow.github.io/feeling-responsive/info/
+[4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
