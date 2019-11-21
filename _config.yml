@@ -21,8 +21,9 @@ description: "»Carrollton Manor.us« is the official website for the Severna Pa
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-#url: "http://carrolltonmanor.github.io"
 url: "http://carrolltonmanor.us"
+#url: "http://carrolltonmanor.github.io"
+#url: "http://sadimauro.github.io"
 #url: "http://localhost:4000"
 baseurl: ""
 
