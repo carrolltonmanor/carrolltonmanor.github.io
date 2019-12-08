@@ -1,7 +1,7 @@
-- id:  lbender
+- id:  vacant
   title:  President
 
-- id: bdant
+- id: lbender
   title:  Vice President
   
 - id:  crogers
@@ -20,4 +20,7 @@
   title:  Director-At-Large
 
 - id:  rrandall
+  title:  Director-At-Large
+
+- id:  kblue
   title:  Director-At-Large

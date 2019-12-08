@@ -5,7 +5,7 @@ title: A note from our President
 teaser: "It is almost spring and if you think like me, you are longing to get outside to play."
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ba8b3d"
+   background-color:  "#fafafa"
 author: lbender
 categories:
     - news

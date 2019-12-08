@@ -4,7 +4,7 @@ title: Carrollton Manor Improvement Association
 #subheadline: "TODO"
 description: "Carrollton Manor Improvement Association"
 header:
-   image: "various/sign1-crop-alternate-680x80.jpg"
+   image: "header_image_alt.jpg"
    background-color:  "#fafafa"
 permalink: "/cmia/"
 breadcrumb: true
@@ -21,7 +21,7 @@ The following is a general summary of information about the Carrollton Manor Imp
  
  
 ## Board Members
-Last updated September 2017.
+Last updated November 2019.
 
 {% for person in site.data.board_roles %}
 **{{ person.title }}**:  {{ site.data.people | map: person.id | map: 'name'}} 
@@ -29,7 +29,7 @@ Last updated September 2017.
 
 
 ## Committees
-Last updated September 2017.
+Last updated November 2019.
 
 {% for committee in site.data.committees %}
 **{{ committee.title }}** - chair:  {{ site.data.people | map: committee.chair | map: 'name' }}

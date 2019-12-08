@@ -1,20 +1,21 @@
 ---
 layout: page-fullwidth
-subheadline:  "Gallery"
-title:  "Holiday Decorating - 2014"
+subheadline:  "FAQ"
+title:  "title"
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
    background-color:  "#fafafa"
+author: todo
 categories:
-    - gallery
+    - faq
 tags:
     - 
 show_meta: true
 breadcrumb: true
 ---
 
-{% assign TOTAL_PICS_NO = 8 %}
-{% assign FOLDER_NAME = '2014-11-29-holiday-decoration' %}
+{% assign TOTAL_PICS_NO = TODO %}
+{% assign FOLDER_NAME = 'TODO' %}
 <ul class="clearing-thumbs small-block-grid-3" data-clearing>
 {% for i in (1..TOTAL_PICS_NO) %}
   <li><a href="{{ site.url }}/images/{{ FOLDER_NAME }}/{{ i }}.jpg"><img  data-caption="" class="th" src="{{ site.url }}/images/{{ FOLDER_NAME }}/{{ i }}_thumb.jpg"></a></li>

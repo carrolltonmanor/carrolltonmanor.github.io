@@ -4,7 +4,7 @@ subheadline:  "News"
 title: New community pics posted!
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ba8b3d"
+   background-color:  "#fafafa"
 author: sdimauro
 categories:
     - news

@@ -4,7 +4,7 @@ title: Contact Us
 #subheadline: "TODO"
 description: "Contact Us"
 header:
-   image: "various/sign1-crop-alternate-680x80.jpg"
+   image: "header_image_alt.jpg"
    background-color:  "#fafafa"
 permalink: "/contact/"
 breadcrumb: true

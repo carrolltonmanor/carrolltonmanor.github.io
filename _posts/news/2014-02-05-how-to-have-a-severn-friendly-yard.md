@@ -5,7 +5,7 @@ title: How to have a Severn River Friendly Yard
 teaser: "There are so many things you can do to help the Severn River."
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ba8b3d"
+   background-color:  "#fafafa"
 author: lbender
 categories:
     - news

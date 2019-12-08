@@ -11,14 +11,18 @@
   - title: Association
     url: "/cmia/"  
 
+- title: FAQ
+  url: "/faq/"
+  side: left
+
+  #- title: News
+  #url: "http://carrolltonmanorblog.wordpress.com/"
+  #side: left
+  
 - title: Gallery
   url: "/gallery/"
   side: left
-  
-- title: News
-  url: "http://carrolltonmanorblog.wordpress.com/"
-  side: left
-  
+   
 - title: "Resources"
   url: "/resources/"
   side: left
@@ -33,9 +37,7 @@
     url: "/resources/constitution/"
   - title: "Pier Wait List"
     url: "/resources/pier-wait-list/"
- # - title: "FAQ"
- #   url: "/resources/faq/"
-    
+
 - title: "Search"
   url: "/search/"
   side: right

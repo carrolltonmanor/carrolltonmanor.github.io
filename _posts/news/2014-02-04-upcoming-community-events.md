@@ -5,7 +5,7 @@ title: Upcoming Community Events
 teaser: "Mark your calendar!"
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ba8b3d"
+   background-color:  "#fafafa"
 author: lbender
 categories:
     - news

@@ -4,7 +4,7 @@ title: By-Laws
 #subheadline: "TODO"
 description: "By-Laws"
 header:
-   image: "various/sign1-crop-alternate-680x80.jpg"
+   image: "header_image_alt.jpg"
    background-color:  "#fafafa"
 permalink: "/resources/by-laws/"
 breadcrumb: true

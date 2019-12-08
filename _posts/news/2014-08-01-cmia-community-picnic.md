@@ -5,7 +5,7 @@ title: CMIA Community Picnic - Fall 2014
 teaser: "Celebrate another wonderful summer of living in Carrollton Manor!"
 header:
    image: "various/sign1-crop-alternate-680x80.jpg"
-   background-color:  "#ba8b3d"
+   background-color:  "#fafafa"
 author: lbender
 categories:
     - news

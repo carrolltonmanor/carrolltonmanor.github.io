@@ -4,7 +4,7 @@ title: Photo Gallery
 #subheadline: "TODO"
 description: "Photo Gallery"
 header:
-   image: "various/sign1-crop-alternate-680x80.jpg"
+   image: "header_image_alt.jpg"
    background-color:  "#fafafa"
 permalink: "/gallery/"
 breadcrumb: true

@@ -7,8 +7,7 @@
 layout: frontpage
 title: "Carrollton Manor - Severna Park, MD, USA"
 header:
-    # note:  base dir for this image must be images/.
-    image_fullwidth: "2014-06-01-around-CM/5_1600x800.jpg"
+    image_fullwidth: "header_image.jpg"
     #caption: This is a sample caption
     #caption_url: http://0.0.0.0:4000 
 widget-1:
