@@ -9,9 +9,9 @@ header:
 permalink: "/resources/eagle-archive/"
 breadcrumb: true
 ---
-{% assign years = "2018|2017|2016|2015|2014|2013|2012|2011|2010|2009|2008|2007|2006|2005|2004|2003|2002|2001" | split: "|" %}
-{% assign thisYear = "2019" %}
-{% assign thisSeason = "fall" %}
+{% assign years = "2019|2018|2017|2016|2015|2014|2013|2012|2011|2010|2009|2008|2007|2006|2005|2004|2003|2002|2001" | split: "|" %}
+{% assign thisYear = "2020" %}
+{% assign thisSeason = "spring" %}
 
 The Eagle is Carrollton Manor's quarterly newsletter.
 
@@ -26,7 +26,7 @@ Search the entire archive:
 </form>
 Archive of past issues:
 
-{{ thisYear }}:  <a href="/resources/eagle-archive/eagle-{{ thisYear }}-spring.pdf">Spring</a> / <a href="/resources/eagle-archive/eagle-{{ thisYear }}-summer.pdf">Summer</a> / <a href="/resources/eagle-archive/eagle-{{ thisYear }}-fall.pdf">Fall</a>
+{{ thisYear }}:  <a href="/resources/eagle-archive/eagle-{{ thisYear }}-spring.pdf">Spring</a>
 {% for yr in years %}
 {{ yr }}:  <a href="/resources/eagle-archive/eagle-{{ yr }}-spring.pdf">Spring</a> / <a href="/resources/eagle-archive/eagle-{{ yr }}-summer.pdf">Summer</a> / <a href="/resources/eagle-archive/eagle-{{ yr }}-fall.pdf">Fall</a> / <a href="/resources/eagle-archive/eagle-{{ yr }}-winter.pdf">Winter</a>
 {% endfor %}
