@@ -13,9 +13,7 @@ breadcrumb: true
 {% assign thisYear = "2020" %}
 {% assign thisSeason = "spring" %}
 
-The Eagle is Carrollton Manor's quarterly newsletter.
-
-Click <a href="/resources/eagle-archive/eagle-{{ thisYear }}-{{ thisSeason }}.pdf">here</a> for the current issue.
+The Eagle is Carrollton Manor's quarterly newsletter.  Click <a href="/resources/eagle-archive/eagle-{{ thisYear }}-{{ thisSeason }}.pdf">here</a> for the current issue.
 
 Search the entire archive:
 
