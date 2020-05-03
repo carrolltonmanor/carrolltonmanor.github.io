@@ -12,7 +12,8 @@ breadcrumb: true
 
 ## Anne Arundel County
 
-* <a href="http://www.aacounty.org">General site</a>
+* <a href="http://www.aacounty.org">County site</a>
+  * <a href="https://www.aacounty.org/departments/county-executive/constituent-services/">Office of Community Engagement and Constituent Services (CECS)</a>.  Sign up for CECS email newsletters <a href="https://www.aacounty.org/departments/county-executive/constituent-services/newsletter/">here</a>.
 * <a href="http://www.aacps.org">Public Schools</a>
 * <a href="http://www.aacpl.net">Public Library</a>
 * <a href="http://www.aacounty.org/recparks">Parks</a>
