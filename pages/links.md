@@ -25,7 +25,7 @@ breadcrumb: true
 * <a href="http://www.aacounty.org/Elections/Resources/AA_County_Election_Map_2014_Congressional_District_Boundary.pdf">Congressional district boundaries map </a>
 * <a href="http://www.aacounty.org/Elections/Resources/AA_County_Election_Map_2014_Legislative_District_Boundary.pdf">Legislative district boundaries map</a>
 * Police
-  * <a href="https://www.aapdguardianshield.org">The Guardian Shield</a> - newsletters ("protecting Anne Arundel County through information exchange").  Sign up for emails on that page; <a href="https://www.aapdguardianshield.org/guardian-newsletters.html">this page</a> contains an archive of past newsletters but hasn't been updated since late 2019.
+  * <a href="https://www.aapdguardianshield.org">The Guardian Shield</a> is Anne Arundel County Police's newsletter ("protecting Anne Arundel County through information exchange").  Sign up for newsletter emails on that page; <a href="https://www.aapdguardianshield.org/guardian-newsletters.html">this page</a> contains an archive of past newsletters but hasn't been updated since late 2019.
 
 ## Severn River / Cheasapeake Bay
 
