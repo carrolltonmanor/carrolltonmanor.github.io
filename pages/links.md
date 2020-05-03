@@ -19,12 +19,13 @@ breadcrumb: true
 * <a href="http://www.aacounty.org/dpw/Index.cfm">Public Works</a>; Roads:  (410) 222-4349; Pothole hotline:  (410) 222-7045
 * Waste Management
   * <a href="http://www.aacounty.org/DPW/WasteManagement/bulkItem.cfm">Bulk Item Collection</a>
-  * <a href="http://www.oakleighforest.org/calendar/holiday.pdf">2015 holiday trash pickup schedule</a>
-* <a href="http://www.recyclemoreoften.com">"Recycle More Often" site</a>
+  * <a href="http://www.recyclemoreoften.com">"Recycle More Often" site</a>
 * <a href="http://www.aacounty.org/IP/ZoningEnforcement/index.cfm">Zoning Enforcement</a>
 * <a href="http://www.aacounty.org/Elections/Resources/AA_County_Election_Map_2014_County_Council.pdf">County council map</a> (we are in District 5)
 * <a href="http://www.aacounty.org/Elections/Resources/AA_County_Election_Map_2014_Congressional_District_Boundary.pdf">Congressional district boundaries map </a>
 * <a href="http://www.aacounty.org/Elections/Resources/AA_County_Election_Map_2014_Legislative_District_Boundary.pdf">Legislative district boundaries map</a>
+* Police
+  * <a href="https://www.aapdguardianshield.org">The Guardian Shield</a> - newsletters ("protecting Anne Arundel County through information exchange").  Sign up for emails on that page; <a href="https://www.aapdguardianshield.org/guardian-newsletters.html">this page</a> contains an archive of past newsletters but hasn't been updated since late 2019.
 
 ## Severn River / Cheasapeake Bay
 
