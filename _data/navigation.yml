@@ -27,14 +27,16 @@
   url: "/resources/"
   side: left
   dropdown:
-  - title: "Newsletters"
-    url: "/resources/eagle-archive/"
-  - title: "Links"
-    url: "/resources/links/"
   - title: "By-Laws"
     url: "/resources/by-laws/"
+  - title: "Clubhouse"
+    url: "/resources/clubhouse/"
   - title: "Constitution"
     url: "/resources/constitution/"
+  - title: "Links"
+    url: "/resources/links/"
+  - title: "Newsletters"
+    url: "/resources/eagle-archive/"
   - title: "Pier Wait List"
     url: "/resources/pier-wait-list/"
 
