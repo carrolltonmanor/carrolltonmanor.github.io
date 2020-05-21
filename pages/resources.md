@@ -8,13 +8,15 @@ header:
 permalink: "/resources/"
 breadcrumb: true
 ---
+<a href="/resources/by-laws/">By-Laws</a>
+
+<a href="/resources/clubhouse/">Clubhouse</a> information
+
+<a href="/resources/constitution/">Constitution</a>
+
 <a href="/resources/eagle-archive/">Archive of The Eagle</a>, Carrollton Manor's community newsletter
 
 <a href="/resources/links/">Useful web links</a> for community members 
-
-<a href="/resources/by-laws/">By-Laws</a>
-
-<a href="/resources/constitution/">Constitution</a>
 
 <a href="/resources/pier-wait-list/">Pier wait list</a>
 
