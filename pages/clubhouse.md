@@ -10,4 +10,6 @@ permalink: "/resources/clubhouse/"
 breadcrumb: true
 ---
 
-<a href="/resources/clubhouse/clubhouse-rules-draft-2020-05-28.pdf">Clubhouse rules - DRAFT - as of 5/28/2020</a>
+<a href="/resources/clubhouse/clubhouse-rules-v6-2020-10-22.pdf">Clubhouse rules</a> - as of 10/22/2020
+
+<a href="/resources/clubhouse/clubhouse-rental-agreement-v3-2020-10-22.pdf">Clubhouse rental agreement</a> - as of 10/22/2020
