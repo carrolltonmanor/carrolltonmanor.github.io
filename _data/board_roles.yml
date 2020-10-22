@@ -1,26 +1,30 @@
-- id:  vacant
+- id:  lbender
   title:  President
 
-- id: lbender
+- id: bdant
   title:  Vice President
   
-- id:  crogers
+- id:  jleahy
   title:  Treasurer
 
 - id:  mbarto
   title:  Secretary
 
-- id: bdant
+- id:  abutkevics
   title:  Director-At-Large
-
-- id:  dprice
-  title:  Director-At-Large
- 
+  
 - id:  jdavis
   title:  Director-At-Large
 
+- id:  cflohr
+  title:  Director-At-Large
+
+- id:  jrach
+  title:  Director-At-Large
+  
 - id:  rrandall
   title:  Director-At-Large
 
-- id:  kblue
+- id:  jshields
   title:  Director-At-Large
+  
