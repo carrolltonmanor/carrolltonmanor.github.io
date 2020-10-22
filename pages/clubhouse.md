@@ -13,3 +13,5 @@ breadcrumb: true
 <a href="/resources/clubhouse/clubhouse-rules-v6-2020-10-22.pdf">Clubhouse rules</a> - as of 10/22/2020
 
 <a href="/resources/clubhouse/clubhouse-rental-agreement-v3-2020-10-22.pdf">Clubhouse rental agreement</a> - as of 10/22/2020
+
+Please send all inquiries to <a href="mailto:clubhousecmia@google.com">clubhousecmia@google.com</a>.
